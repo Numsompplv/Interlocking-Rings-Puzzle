@@ -6,4 +6,4 @@
 
 Three interlocking rings are given, as shown in the figure above.  
 Each ring can be rotated left or right.  
-Your task is to rotate the rings to transform the **initial configuration** (on the left) into the **target configuration** (on the right).
+The task is to rotate the rings to transform the **initial configuration** (on the left) into the **target configuration** (on the right).
